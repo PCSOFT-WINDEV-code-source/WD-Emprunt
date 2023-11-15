@@ -1,0 +1,110 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Emprunt
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Projet WD Emprunt
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Emprunt
+    internal_properties : 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
+    configuration_id : 2341208594954407715
+    type : 1
+    generation_name : WD Emprunt.exe
+    version :
+     version : 10.00Aad
+     internal_generation_version : 3
+    icon_filename : .\description.ico
+    language : 1
+ elements :
+  identifier : 0x4acc52ba0014a785
+  elements :
+   -
+     name : EtatEcheancier
+     identifier : 0x420351db0001fa7f
+     internal_properties : CAAAAAgAAACV8f0hnvuz7PHNvSAuDCHXicZsXGEuLsaqMB5qNf2RR/kL/Ok7xZpKwn54QMAwyDiAgA==
+     physical_name : .\EtatEcheancier.wde
+     type : 3
+   -
+     name : EtatPlacement
+     identifier : 0x420390de00021cee
+     internal_properties : CAAAAAgAAAC5mxfzzPnKjQIFa4/RrsnuqvAMYKw5h31Ykvo6Za/KIYCazBF2GZT8UumHMBP3QKu8
+     physical_name : .\EtatPlacement.wde
+     type : 3
+   -
+     name : TEST_FenFinanciere
+     identifier : 0x4a092fc30000a064
+     internal_properties : CAAAAAgAAAD2XN7C4V7W2fzI7HOJakpsUufxMQcAp6tTy44uqGct4xk1lEHQaEf5vXljXSXbpxnjYw==
+     physical_name : .\TEST_FenFinanciere.wxt
+     type : 17
+   -
+     name : FenExtraitCode
+     identifier : 0x42a555120000fd9a
+     internal_properties : CAAAAAgAAAAIBnAsm8Boc0qSAhXzxeR6/JPLU2uMP1+3+rvBGRaGskrkpbBmkm2fFwP9+7s1zcMNFQ==
+     physical_name : .\FenExtraitCode.wdw
+     type : 2
+   -
+     name : FenFinanciere
+     identifier : 0x420395ac0003e141
+     internal_properties : CAAAAAgAAABGzK7yMW5GaUyYfGOZnEbAKmshuZYrVFdORwWQEeGrra+38lPAeFeJDQnzzVWLd2lT0w==
+     physical_name : .\FenFinanciere.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAAA4Nt6ccopHRlplqTk5uU/Pl9CfWt4Cr+b6HgKecOoiDRXACGX4LfzmBnBT6Kk8ROygkWJrWWYDae0GU2+b
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Emprunt
+     identifier : 0x4acc52ba001ba831
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
